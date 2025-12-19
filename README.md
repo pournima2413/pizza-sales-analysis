@@ -81,8 +81,4 @@ Shows which size drives sales in each category.
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-## ▶️ How to Run
-1. Clone repo:
-   ```bash
-   git clone <your-repo-url>
-   cd pizza-sales-analysis
+
